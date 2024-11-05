@@ -2,4 +2,4 @@ Hello World!
 
 Some initial changes
 
-Changes in first file in repo 1. Other changes in first file in repo 2.
+Other changes in first file in repo 2.
